@@ -8,19 +8,19 @@ const cards = [
   {
     id: 1,
     title:
-      'China, en busca del liderazgo tecnológico: el ambicioso plan a 5 años enfocado en IA, biotecnología, exploración espacial y más',
+      'China, en busca del liderazgo tecnológico',
     image: china,
     url: 'https://www.xataka.com/empresas-y-economia/china-busca-liderazgo-tecnologico-ambicioso-plan-a-5-anos-enfocado-ia-biotecnologia-exploracion-espacial'
   },
   {
     id: 2,
-    title: 'Nvidia lanza CMP, una gráfica sin gráficos que solo sirve para minar criptodivisas',
+    title: 'Nvidia lanza CMP, una gráfica sin gráficos',
     image: cmp,
     url: 'https://www.xataka.com/criptomonedas/nvidia-lanza-cmp-grafica-graficos-que-solo-sirve-para-minar-criptodivisas'
   },
   {
     id: 3,
-    title: 'Perseverance se pone manos a la obra: realiza su primera exploración en Marte en busca de restos de vida marciana',
+    title: 'Perseverance se pone manos a la obra',
     image: rover,
     url: 'https://www.xataka.com/espacio/perseverance-se-pone-manos-a-obra-realiza-su-primera-exploracion-marte-busca-restos-vida-marciana'
   },

@@ -3,7 +3,7 @@ import React from 'react';
 function Card({title, imageSource, url}) {
   console.log(title)
   return (
-    <div className='card text-center bg-dark'>
+    <div className='card text-center bg-dark h-100'>
       <img src={imageSource} alt='' className='img-fluid' />
       <div className='card-body text-light'>
         <h4 className='card-title mt-3'>{title}</h4>
