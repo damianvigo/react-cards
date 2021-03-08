@@ -1,12 +1,13 @@
-import React from 'react'
-import Card from './components/Card'
+import React from 'react';
+import Cards from './components/Cards';
+import './App.scss';
 
 function App() {
   return (
-    <div>
-      <Card />
+    <div className='App'>
+      <Cards />
     </div>
-  )
+  );
 }
 
-export default App
+export default App;
