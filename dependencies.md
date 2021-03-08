@@ -1,2 +1,4 @@
 --- npm i bootstrap ---
 --- npm i sass ---
+---  npm i prop-types ---
+--- npm i animate.css ---
