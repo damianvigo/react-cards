@@ -13,7 +13,7 @@ function Card({ title, imageSource, url, description }) {
       <div className='card-body text-light'>
         <h4 className='card-title mt-3'>{title}</h4>
         <p className='card-text'>{description}</p>
-        <a className='btn text-light bg-dark rounded-0' href={url} target='_blank' noreferrer noopener>
+        <a className='btn text-light bg-dark rounded-0' href={url} target='_blank' rel="noreferrer">
           Ver más
         </a>
       </div>
