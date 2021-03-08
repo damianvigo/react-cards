@@ -1,1 +1,1 @@
-git # simple react cards with bootstrap
+# simple react cards with bootstrap
